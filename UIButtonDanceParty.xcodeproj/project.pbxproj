@@ -12,6 +12,8 @@
 		8639EF0A2001822E00BCFED7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8639EF082001822E00BCFED7 /* Main.storyboard */; };
 		8639EF0C2001822E00BCFED7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8639EF0B2001822E00BCFED7 /* Assets.xcassets */; };
 		8639EF0F2001822E00BCFED7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8639EF0D2001822E00BCFED7 /* LaunchScreen.storyboard */; };
+		8639EF17200184BC00BCFED7 /* Extensions.UIButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8639EF16200184BC00BCFED7 /* Extensions.UIButton.swift */; };
+		8639EF1B20019CA400BCFED7 /* Helpers.CGFloat.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8639EF1A20019CA400BCFED7 /* Helpers.CGFloat.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		8639EF0B2001822E00BCFED7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8639EF0E2001822E00BCFED7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8639EF102001822E00BCFED7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8639EF16200184BC00BCFED7 /* Extensions.UIButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.UIButton.swift; sourceTree = "<group>"; };
+		8639EF1A20019CA400BCFED7 /* Helpers.CGFloat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.CGFloat.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				8639EF0B2001822E00BCFED7 /* Assets.xcassets */,
 				8639EF0D2001822E00BCFED7 /* LaunchScreen.storyboard */,
 				8639EF102001822E00BCFED7 /* Info.plist */,
+				8639EF16200184BC00BCFED7 /* Extensions.UIButton.swift */,
+				8639EF1A20019CA400BCFED7 /* Helpers.CGFloat.swift */,
 			);
 			path = UIButtonDanceParty;
 			sourceTree = "<group>";
@@ -137,6 +143,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8639EF072001822E00BCFED7 /* ViewController.swift in Sources */,
+				8639EF1B20019CA400BCFED7 /* Helpers.CGFloat.swift in Sources */,
+				8639EF17200184BC00BCFED7 /* Extensions.UIButton.swift in Sources */,
 				8639EF052001822E00BCFED7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
